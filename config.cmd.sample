@@ -1,0 +1,14 @@
+REM the name of the development drive
+set DEV_DRIVE=s:
+
+REM the base directory of the development environment
+set ROOT_PATH=c:\var\src\devenv
+
+REM the home directory
+set HOME=%DEV_DRIVE%\home
+
+REM the temp directory (Most app is using this two variable to check the temp directory location.)
+set TMP=%DEV_DRIVE%\tmp
+set TEMP=%TMP%
+
+set PATH=%DEV_DRIVE%/bin;%PATH%
