@@ -1,5 +1,6 @@
 bin/
 
+home/.ssh
 home/.wget-hsts
 
 config.cmd
