@@ -1,6 +1,6 @@
 @echo off
 
-call bin\config.cmd
+call win32\config.cmd
 
 REM clean up the previous session if necessary
 if exist %DEV_DRIVE%\nul subst /D %DEV_DRIVE%

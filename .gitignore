@@ -1,1 +1,5 @@
+bin/
+
+home/.wget-hsts
+
 config.cmd
