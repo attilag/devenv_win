@@ -1,2 +1,6 @@
 [push]
 	defaul = simple
+	default = simple
+[user]
+	email = gluck.attila.bela@gmail.com
+	name = Attila Glück
