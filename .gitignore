@@ -1,6 +1,14 @@
 bin
 
+home/_viminfo
+home/_vimrc
+home/vimfiles
+
 home/.ssh
 home/.wget-hsts
+
+home/.cache
+
+.*.swp
 
 config.cmd
