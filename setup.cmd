@@ -2,7 +2,7 @@
 
 set NINJA_VERSION=v1.7.2
 
-wget https://github.com/ninja-build/ninja/releases/download/%NINJA_VERSION%/ninja-win.zip -O %TMP%\ninja-win.zip
+wget --no-check-certificate https://github.com/ninja-build/ninja/releases/download/%NINJA_VERSION%/ninja-win.zip -O %TMP%\ninja-win.zip
 unzip %TMP%\ninja-win.zip -d %TMP%
 copy %TMP%\ninja.exe %DEV_DRIVE%\win32\bin
 
