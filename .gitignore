@@ -4,10 +4,14 @@ home/_viminfo
 home/_vimrc
 home/vimfiles
 
+home/.cache
+home/.config
 home/.ssh
 home/.wget-hsts
+home/build.properties
+home/config
+home/var
 
-home/.cache
 
 .*.swp
 
