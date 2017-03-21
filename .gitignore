@@ -6,11 +6,13 @@ home/vimfiles
 
 home/.cache
 home/.config
+home/.metadata
 home/.ssh
 home/.wget-hsts
 home/build.properties
 home/config
 home/var
+home/lock
 
 
 .*.swp
