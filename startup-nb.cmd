@@ -14,4 +14,4 @@ if not exist %TMP% md %TMP%
 
 %DEV_DRIVE%
 
-start %NETBEANS_PATH%\bin\netbeans64.exe %NETBEANS_PARAMS%
+nb.cmd

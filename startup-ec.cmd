@@ -14,4 +14,4 @@ if not exist %TMP% md %TMP%
 
 %DEV_DRIVE%
 
-start %ECLIPSE_PATH%\eclipse.exe %ECLIPSE_PARAMS%
+ec.cmd
