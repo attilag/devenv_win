@@ -19,4 +19,5 @@ copy %GIT_PATH%\usr\bin\grep.exe %DEV_DRIVE%\win32\bin 1>NUL
 copy %GIT_PATH%\usr\bin\install.exe %DEV_DRIVE%\win32\bin 1>NUL
 copy %GIT_PATH%\usr\bin\msys-intl-8.dll %DEV_DRIVE%\win32\bin 1>NUL
 copy %GIT_PATH%\usr\bin\msys-iconv-2.dll %DEV_DRIVE%\win32\bin 1>NUL
+copy %GIT_PATH%\usr\bin\msys-pcre-1.dll %DEV_DRIVE%\win32\bin 1>NUL
 copy %GIT_PATH%\usr\bin\msys-2.0.dll %DEV_DRIVE%\win32\bin 1>NUL
